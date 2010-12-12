@@ -1,0 +1,18 @@
+phonic-hiragana
+written by Ken Goudsward, November 2010
+released under creative commons licence attrib non-commercial share-alike
+
+phonic-hiragana is 'sort of' a translator
+you type or copy in phonetic spellings of japanese words such as "konichiwa", and you get back the proper hiragana 'spelling' click to edit
+
+REQUIRES:
+ruby, gem, shoes
+
+version 1.0
+works
+single file includes program and 'translation logic'
+
+version 2.0
+not yet functional
+it will feature the hash table split out into a library file separate from the programmatic function
+feel free to fork the repo and make it work
